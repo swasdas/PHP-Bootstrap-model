@@ -1,5 +1,5 @@
 # PHP-Bootstrap-model
-- Build **CRUD** operation's model using PHP, Bootstrap, jQuery and AJAX
+- Build **CRUD operation's model** using PHP, Bootstrap, jQuery, AJAX, MySQL and XAMPP.
 - Funnction: We can Create, Read, Update and Delete (CRUD) User's details easily.
 
 ## Dashboard
